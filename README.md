@@ -36,3 +36,10 @@ The highest rated genre has an mean rating of 8.8 while the lowest rated genre h
 
 Question 2 - Does the movie's gross product predict ratings?
 ![grossratings](totalGrossRatingScatter.png)
+
+The correlation between total_gross and averagerating is 0.165889. Therefore there is virtually no correlation between total_gross and averagerating. Consumers watching a movie does NOT mean they like a movie. 
+
+Question 3 - Which genres have the highest/lowest gross?
+![$genre$](genres1.png)
+
+Action, Adventure, Animation, Fantasy, Family, and Sci-Fi movies generate the most revenue. The most popular genres did not lead to the most revenue. For example, documentary, news, and biography are highly rated genres, but they brought in less revenue than Action and Fantasy which were genres with low ratings.
