@@ -26,5 +26,14 @@ I used these files from within the `zippedData` folder
 
 Question 1 - Which genres have the highest ratings?
 ![genresratingsimage](genres.png)
-![genresratingsimage](genres1.png)
+
+{'Action': 5.810360618202613, 'Adult': 3.766666666666667, 'Adventure': 6.196201205134906, 'Animation': 6.248307515777409, 'Biography': 7.162273562614873, 'Comedy': 6.002689415847302, 'Crime': 6.115441335935799, 'Documentary': 7.332090350926571, 'Drama': 6.401559048980236, 'Family': 6.394724501758511, 'Fantasy': 5.919473189087487, 'Game-Show': 7.3, 'History': 7.040955752212392, 'Horror': 5.00344018764659, 'Music': 6.930521936459925, 'Musical': 6.498335644937577, 'Mystery': 5.920401447844683, 'News': 7.2713298791018985, 'Reality-TV': 6.499999999999999, 'Romance': 6.146607983001951, 'Sci-Fi': 5.4897552130552985, 'Short': 8.8, 'Sport': 6.961492790500417, 'Thriller': 5.639114031885117, 'War': 6.584290738569757, 'Western': 5.868214285714282}
+
+The average overall rating is a 6.35. 
+The top 25% movies have a rating over 6.92. T
+he lowest 25% of movies have a rating below 5.92. 
+The highest rated genre has an mean rating of 8.8 while the lowest rated genre has a mean rating of 3.77.
+
+Question 2 - Does the movie's gross product predict ratings?
+![grossratings](totalGrossRatingScatter.png)
 
