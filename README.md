@@ -36,4 +36,3 @@ The highest rated genre has an mean rating of 8.8 while the lowest rated genre h
 
 Question 2 - Does the movie's gross product predict ratings?
 ![grossratings](totalGrossRatingScatter.png)
-
